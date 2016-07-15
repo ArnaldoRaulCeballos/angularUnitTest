@@ -1,0 +1,29 @@
+{
+  "name": "angularunittest",
+  "version": "1.0.0",
+  "description": "Prueba de UnitTest sobre proyecto en Angular con dependencias",
+  "main": "app.js",
+  "directories": {
+    "test": "tests"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "jasmine-core": "^2.4.1",
+    "karma": "^1.1.1",
+    "karma-chrome-launcher": "^1.0.1",
+    "karma-jasmine": "^1.0.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArnaldoRaulCeballos/angularUnitTest.git"
+  },
+  "author": "Arnaldo Ceballos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ArnaldoRaulCeballos/angularUnitTest/issues"
+  },
+  "homepage": "https://github.com/ArnaldoRaulCeballos/angularUnitTest#readme"
+}
